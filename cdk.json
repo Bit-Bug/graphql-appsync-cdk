@@ -34,6 +34,17 @@
     "@aws-cdk/core:target-partitions": [
       "aws",
       "aws-cn"
+    ],
+    "globals": {
+      "appName": "appsync-demo", 
+      "region": "ap-southeast-2" 
+    },
+    "environments": [
+      {
+        "environment": "develop",
+        "branchName": "develop",
+        "accountNumber": "612659717478" 
+      }
     ]
   }
 }
