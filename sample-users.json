@@ -1,0 +1,34 @@
+[
+    {
+        "firstName":"Remy",
+        "lastName": "Rooster",
+        "email":"reoster@gmail.com",
+        "gender":"Male",
+        "jobTitle":"Tester",
+        "country":"Taiwan"
+    },
+    {
+        "firstName":"Fons",
+        "lastName": "Mad",
+        "email":"fonny@gmail.com",
+        "gender":"Male",
+        "jobTitle":"Engineer",
+        "country":"Czesh Republik"
+    },
+    {
+        "firstName":"Fred",
+        "lastName": "Hopkins",
+        "email":"freddo@gmail.com",
+        "gender":"Male",
+        "jobTitle":"PM",
+        "country":"France"
+    },
+    {
+        "firstName":"Hedi",
+        "lastName": "Fateh",
+        "email":"hadhoud@gmail.com",
+        "gender":"Male",
+        "jobTitle":"Hewi",
+        "country":"Tunisia"
+    }
+]

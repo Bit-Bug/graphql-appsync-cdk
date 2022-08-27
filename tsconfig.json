@@ -21,7 +21,13 @@
     "strictPropertyInitialization": false,
     "typeRoots": [
       "./node_modules/@types"
-    ]
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "/opt/*": [
+        "shared/*"
+      ]
+    }
   },
   "exclude": [
     "node_modules",
