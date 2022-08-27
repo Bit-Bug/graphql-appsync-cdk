@@ -37,13 +37,13 @@
     ],
     "globals": {
       "appName": "appsync-demo", 
-      "region": "ap-southeast-2" 
+      "region": "us-east-1" 
     },
     "environments": [
       {
         "environment": "develop",
         "branchName": "develop",
-        "accountNumber": "612659717478" 
+        "accountNumber": "380431422094" 
       }
     ]
   }
