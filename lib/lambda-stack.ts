@@ -65,6 +65,7 @@ export class CDKLambdaBaseStack extends Stack {
       description: `Lambda Layer for ${context.appName}`,
     });
     // api definition
+    appsync.fr
     const graphqlApi = new appsync.GraphqlApi(this, 'graphqlApi', {
       name: `${context.appName}-${context.environment}`,
       schema: appsync.Schema.fromAsset('lib/schema.graphql'),
